@@ -2,7 +2,7 @@
 This is the DB pool session available in the Flask in python 2.7
 
 ## What is support db.
-This suppoer is Postgresql
+This suppoer is Postgresql.
 To use it, you need to install "psycopg2".
 
 ## Used to
