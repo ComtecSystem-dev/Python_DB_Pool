@@ -10,7 +10,7 @@ you should get sample code in "demo" directory
 
 #### Connection example
 	from cims_db import db_manager
-	conn_state = dbmanager.Connect('10.201.5.101', '5432', 'cims', 'comtec', 'comtec')
+	conn_state = dbmanager.Connect('<HOST_IP>', '<HOST_PORT>', '<DB_NAME>', '<ID>', '<PW>')
 	if conn_state == True:
 		print ("Connection is OK")
 	else:
