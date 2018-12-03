@@ -5,7 +5,7 @@ This is the DB pool session available in the Flask in python 2.7
 This suppoer is Postgresql
 To use it, you need to install "psycopg2".
 
-## Used
+## Used to
 you should get sample code in "demo" directory
 
 #### Connection example
