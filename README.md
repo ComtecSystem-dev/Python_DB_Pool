@@ -1,5 +1,6 @@
 ## What is this?
-This is the DB pool session available in the Flask in python 2.7
+This is the DB pool session available in the python 3.6
+This improves the efficiency of source code when querying by multiple access to DB.
 
 ## What is support db.
 This suppoer is Postgresql.
