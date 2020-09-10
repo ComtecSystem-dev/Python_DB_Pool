@@ -48,3 +48,6 @@ you should get sample code in "demo" directory
 			print "Execute_List is OK"
 	except Exception as e:
 		print e
+
+## License
+This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details.
